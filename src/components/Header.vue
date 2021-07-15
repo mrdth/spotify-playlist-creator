@@ -8,7 +8,7 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue';
-import HeaderCurve from './_headerCurve.vue';
+
 import PlaylistFetchForm from './PlaylistFetchForm.vue';
 
 export default defineComponent({
